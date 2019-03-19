@@ -1,9 +1,10 @@
 # Title
-Measurements of BiMass
+Simulations of BioMass Aerosol
 over West Africa
 
 # Authors
 Richard Stephenson
+John Smith
 
 #Introduction
 
