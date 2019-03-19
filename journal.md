@@ -5,6 +5,8 @@ over West Africa
 # Authors
 Richard Stephenson
 John Smith
+Trevor Jones
+Bob West
 
 #Introduction
 
