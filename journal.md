@@ -30,3 +30,6 @@ This is directly linked.
 
 #Figures
 This is draft ,so the fugures go in a section of their own
+
+#Conclusions
+The project was great. 
