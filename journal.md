@@ -4,9 +4,11 @@ Model - Measurement comparison of Biomass by Aircraft
 over West Africa
 
 # Authors
-John Smith
-Bob Down
-Richard Stephenson
+John Smith,University of Bath
+Richard Stephenson,University of Manchester
+Bob Down,Man Group
+
+
 
 #Introduction
 
