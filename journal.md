@@ -1,5 +1,5 @@
 # Title
-Measurements of BiMass
+Measurements of BioMass by Aircraft
 over West Africa
 
 # Authors
