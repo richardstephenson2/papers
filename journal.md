@@ -27,3 +27,6 @@ Particle number concs were mad using a thing
 #Results
 Change in composition with atomospheric age.
 This is directly linked.
+
+#Figures
+This is draft ,so the fugures go in a section of their own
